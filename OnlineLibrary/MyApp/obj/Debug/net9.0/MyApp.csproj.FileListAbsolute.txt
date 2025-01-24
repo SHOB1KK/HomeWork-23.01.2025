@@ -16,3 +16,4 @@ C:\Users\user\Desktop\MyProject\OnlineLibrary\MyApp\obj\Debug\net9.0\refint\MyAp
 C:\Users\user\Desktop\MyProject\OnlineLibrary\MyApp\obj\Debug\net9.0\MyApp.pdb
 C:\Users\user\Desktop\MyProject\OnlineLibrary\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
 C:\Users\user\Desktop\MyProject\OnlineLibrary\MyApp\obj\Debug\net9.0\ref\MyApp.dll
+C:\Users\user\Desktop\MyProject\OnlineLibrary\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
